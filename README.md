@@ -11,4 +11,4 @@ performs hypothesis testing (up to now, Kruskal-Wallis and ANOVA depending on re
 
 works out the box plot for the data to be tested
 
-the 'data by classes' function is used to split a testing variable into classes
+the 'data_by_classes' function is used to split a testing variable into classes
