@@ -1,8 +1,8 @@
 
-# a python (pandas, scipy, matplotlib) tutorial - template
+# a python (pandas, scipy, matplotlib) - template
 
 # a statistics tutorial in python
-# loads data from a csv file, stores them in a dataframe type
+# loads data from a csv file (any size), stores them in a dataframe type
 # works out some descriptive statistics
 # performs normality test
 # performs hypothesis testing (up to now, Kruskal-Wallis and ANOVA)
